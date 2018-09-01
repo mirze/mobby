@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="215dp"
+    android:layout_height="145dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_album_delete"
+        android:layout_width="215dp"
+        android:layout_height="43dp"
+        android:background="@drawable/dilog_up"
+        android:gravity="center"
+        android:text="@string/dialog_delete_chat_record"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="215dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dilog_down"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/ib_setting_delete_cancel"
+            android:layout_width="80dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/cancle_slector"
+            android:text="取消"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/ib_setting_delete_confirm"
+            android:layout_width="80dp"
+            android:layout_height="38dp"
+            android:background="@drawable/dialog_confirm_bg_selector"
+            android:text="确定"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

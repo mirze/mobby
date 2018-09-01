@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/grade_list_item_padding_top" >
+
+    <RelativeLayout
+        android:id="@+id/grade_list_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/class_top_bg"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/tv_grade_list_item_teacher_classname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="@dimen/grade_list_classname_textSize" />
+
+        <TextView
+            android:id="@+id/tv_grade_list_item_teacher_newswarn"
+            android:layout_width="@dimen/grade_list_item_warn_heightAndWidth"
+            android:layout_height="@dimen/grade_list_item_warn_heightAndWidth"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/grade_news_warn_bg"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/grade_list_item_bg_selector"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/grade_list_item_teacher_time_bg"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_grade_list_item_teacher_hint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/grade_list_class_textSize" />
+
+                <TextView
+                    android:id="@+id/tv_grade_list_item_teacher_week"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#626262"
+                    android:textSize="@dimen/grade_list_class_textSize"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_grade_list_item_teacher_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:textColor="#626262"
+                    android:textSize="@dimen/grade_list_class_textSize" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_marginTop="3dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_counts"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="人数:"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_classnumbers"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="课次:"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_classnumber"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_places"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="地点:"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+
+                    <TextView
+                        android:id="@+id/tv_grade_list_item_teacher_place"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="#626262"
+                        android:textSize="@dimen/grade_list_class_textSize" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_grade_list_teacher_class_finish"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

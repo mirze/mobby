@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/blue_title_bg" >
+
+        <TextView
+            android:id="@+id/tv_grade_list_teacher_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="班级"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textSize" />
+
+        <TextView
+            android:id="@+id/ib_grade_list_teacher_group_message"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_blue_selector"
+            android:gravity="center"
+            android:text="群消息"
+            android:textColor="#3dcad2" />
+    </RelativeLayout>
+
+    <com.up72.mobby.views.PullToRefreshListView
+        android:id="@+id/lv_gradelist_teacher"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingLeft="@dimen/grade_list_teacher_listview_padding_left"
+        android:paddingRight="@dimen/grade_list_teacher_listview_padding_right"
+        android:background="@color/color_f8f8f8"/>
+
+</LinearLayout>

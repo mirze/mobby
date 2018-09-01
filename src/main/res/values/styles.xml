@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <!-- 对话框样式 -->
+    <style name="dlg_priority" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item> <!-- 模糊 -->
+
+    </style>
+
+    <style name="imageview_big_dot">
+        <item name="android:paddingLeft">7.0px</item>
+        <item name="android:paddingTop">6.0px</item>
+        <item name="android:paddingRight">7.0px</item>
+        <item name="android:paddingBottom">8.0px</item>
+    </style>
+
+    <!-- 自定义Dialog样式 -->
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <!-- 对话框样式 -->
+    <style name="dlg_loading" parent="@android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:backgroundDimEnabled">false</item> <!-- 模糊 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+    </style>
+
+    <style name="dlg_recorde" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item> <!-- 模糊 -->
+    </style>
+
+    <style name="Transparent" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/translate</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="TransparentBottom" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style>
+
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:activityOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:activityCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:activityCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:taskCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskToFrontExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskToBackEnterAnimation">@anim/to_top</item>
+        <item name="android:taskToBackExitAnimation">@anim/to_top</item>
+    </style>
+</resources>

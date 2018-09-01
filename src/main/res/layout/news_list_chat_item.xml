@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical"
+    android:paddingBottom="5dp" >
+
+    <LinearLayout
+        android:id="@+id/ll_news_list_chat_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/chat_other_tiem_bg"
+        android:gravity="center"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/tv_news_list_chat_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl_news_list_chat_left"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible" >
+
+            <com.up72.mobby.views.FilletImageView
+                android:id="@+id/iv_news_list_chat_left_photo"
+                android:layout_width="@dimen/chat_item_photo_heightAndWidth"
+                android:layout_height="@dimen/chat_item_photo_heightAndWidth"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:clickable="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/tv_news_list_chat__left_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/iv_news_list_chat_left_photo"
+                android:textColor="#7D9EC0"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/iv_news_list_chat_left_expression"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_below="@id/tv_news_list_chat__left_name"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/iv_news_list_chat_left_photo"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_news_list_chat__left_name"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/iv_news_list_chat_left_photo"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/ll_news_list_chat_left_bg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/news_chat_left_selector"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_news_list_chat_left_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxWidth="@dimen/chat_item_content_maxwidth"
+                        android:textColor="#ffffff"
+                        android:textSize="@dimen/chat_content_textSize"
+                        android:visibility="gone" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_news_list_chat_left_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:visibility="gone" >
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_left_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop" />
+
+                        <TextView
+                            android:id="@+id/tv_news_list_chat_left_title"
+                            android:layout_width="100dp"
+                            android:layout_height="30dp"
+                            android:layout_alignParentBottom="true"
+                            android:background="@drawable/bg_photo_detail_content_normal"
+                            android:gravity="center_vertical"
+                            android:singleLine="true"
+                            android:textSize="12sp"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rl_news_list_chat_left_video"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:visibility="gone" >
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_left_video"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop" />
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_left_bg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#000000"
+                            android:visibility="visible" />
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/video_chat" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_news_list_chat_left_record"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:visibility="gone" >
+
+                        <ImageView
+                            android:id="@+id/an_news_list_chat_left_record"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_marginRight="30dp"
+                            android:background="@anim/anim_record_left_pic" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tv_news_list_chat_left_record_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#000000"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_news_list_chat_right"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible" >
+
+            <com.up72.mobby.views.FilletImageView
+                android:id="@+id/iv_news_list_chat_right_photo"
+                android:layout_width="@dimen/chat_item_photo_heightAndWidth"
+                android:layout_height="@dimen/chat_item_photo_heightAndWidth"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:clickable="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/tv_news_list_chat_right_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@id/iv_news_list_chat_right_photo"
+                android:textColor="#7D9EC0"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_news_list_chat_right_name"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_toLeftOf="@id/iv_news_list_chat_right_photo"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp" >
+
+                    <ImageView
+                        android:id="@+id/iv_news_list_chat_failure"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/send_fail_alert_icon"
+                        android:visibility="gone" />
+
+                    <ProgressBar
+                        android:id="@+id/iv_news_list_chat_send"
+                        style="@android:style/Widget.ProgressBar.Inverse"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:indeterminateBehavior="repeat"
+                        android:indeterminateDrawable="@drawable/login_loading"
+                        android:indeterminateOnly="true"
+                        android:visibility="gone" />
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/tv_news_list_chat_right_record_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="3dp"
+                    android:textColor="#000000"
+                    android:visibility="visible" />
+
+                <ImageView
+                    android:id="@+id/iv_news_list_chat_right_expression"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/ll_news_list_chat_right_bg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/news_chat_right_selector"
+                    android:orientation="vertical"
+                    android:visibility="visible" >
+
+                    <TextView
+                        android:id="@+id/tv_news_list_chat_right_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxWidth="@dimen/chat_item_content_maxwidth"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/chat_content_textSize"
+                        android:visibility="gone" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_news_list_chat_right_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:visibility="gone" >
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_right_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop" />
+
+                        <TextView
+                            android:id="@+id/tv_news_list_chat_right_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:layout_alignParentBottom="true"
+                            android:background="@drawable/bg_photo_detail_content_normal"
+                            android:gravity="center_vertical"
+                            android:singleLine="true"
+                            android:textSize="12sp"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rl_news_list_chat_right_video"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:visibility="gone" >
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_right_video"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop" />
+
+                        <ImageView
+                            android:id="@+id/iv_news_list_chat_right_bg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#000000"
+                            android:visibility="visible" />
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/video_chat" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_news_list_chat_right_record"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="right"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <ImageView
+                            android:id="@+id/an_news_list_chat_right_record"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_marginLeft="30dp"
+                            android:background="@anim/anim_record_right_pic" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

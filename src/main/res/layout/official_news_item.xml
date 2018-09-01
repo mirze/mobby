@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/offical_item_offical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/grade_list_student_listview_padding_left"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/tv_offical_news_list_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/offical_time"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:textColor="#ffffff" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/class_top_bg"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp" >
+
+            <TextView
+                android:id="@+id/tv_offical_item_replay_count"
+                android:layout_width="@dimen/offical_list_item_warn_heightAndWidth"
+                android:layout_height="@dimen/offical_list_item_warn_heightAndWidth"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/grade_news_warn_bg"
+                android:gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_offical_item_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/tv_offical_item_replay_count"
+                android:gravity="center"
+                android:lines="1"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/grade_list_item_bg_selector"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/iv_offical_item_image"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:layout_marginTop="5dp"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/tv_offical_item_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dip"
+                android:layout_marginTop="5dip"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:textColor="#626262"
+                android:textSize="15sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:id="@+id/iv_read"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:src="@drawable/offical_chakan" />
+
+                <TextView
+                    android:id="@+id/tv_offical_item_read_all"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@id/iv_read"
+                    android:text="阅读全文"
+                    android:textColor="#626262"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/offical_item_news"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/grade_list_student_listview_padding_left"
+        android:paddingRight="@dimen/grade_list_student_listview_padding_right"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:id="@+id/ll_chat_offical_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/chat_other_tiem_bg"
+            android:gravity="center"
+            android:visibility="visible" >
+
+            <TextView
+                android:id="@+id/tv_chat_offical_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/offical_time"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/rl_chat_offical_left"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible" >
+
+                <com.up72.mobby.views.FilletImageView
+                    android:id="@+id/iv_chat_left_offical_photo"
+                    android:layout_width="@dimen/chat_item_photo_heightAndWidth"
+                    android:layout_height="@dimen/chat_item_photo_heightAndWidth"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="5dp"
+                    android:clickable="false"
+                    android:scaleType="fitXY" />
+
+                <TextView
+                    android:id="@+id/tv_chat_left_offical_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@id/iv_chat_left_offical_photo"
+                    android:textColor="#7D9EC0"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_chat_left_offical_name"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@id/iv_chat_left_offical_photo"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_chat_left_offical_bg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/news_chat_left_selector" >
+
+                        <TextView
+                            android:id="@+id/tv_chat_left_offical_content"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:maxWidth="@dimen/chat_item_content_maxwidth"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:textColor="#ffffff"
+                            android:textSize="@dimen/chat_content_textSize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_chat_right_offical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" >
+
+                <com.up72.mobby.views.FilletImageView
+                    android:id="@+id/iv_chat_right_offical_photo"
+                    android:layout_width="@dimen/chat_item_photo_heightAndWidth"
+                    android:layout_height="@dimen/chat_item_photo_heightAndWidth"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="5dp"
+                    android:clickable="true"
+                    android:scaleType="fitXY" />
+
+                <TextView
+                    android:id="@+id/tv_chat_right_offical_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_toLeftOf="@id/iv_chat_right_offical_photo"
+                    android:textColor="#7D9EC0"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_chat_right_offical_name"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@id/iv_chat_right_offical_photo"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp" >
+
+                        <ImageView
+                            android:id="@+id/iv_chat_offical_failure"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:src="@drawable/send_fail_alert_icon"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_chat_right_offical_bg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/news_chat_right_selector" >
+
+                        <TextView
+                            android:id="@+id/tv_chat_right_offical_content"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:maxWidth="@dimen/chat_item_content_maxwidth"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:textColor="#000000"
+                            android:textSize="@dimen/chat_content_textSize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

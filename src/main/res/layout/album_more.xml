@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <Button
+        android:id="@+id/album_more_photo_take"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_btn_dialog_blue"
+        android:text="拍照"
+        android:textColor="#035d67"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/album_more_photo_fromalbum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/selector_btn_dialog_blue"
+        android:text="本地上传"
+        android:textColor="#035d67"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/album_more_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/selector_btn_dialog_gray"
+        android:text="取消"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

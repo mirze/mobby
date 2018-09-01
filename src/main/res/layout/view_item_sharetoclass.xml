@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:paddingTop="@dimen/grade_list_item_padding_top" >
+
+    <RelativeLayout
+        android:id="@+id/view_item_sharetoclass_backgroud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/class_top_bg" >
+
+        <TextView
+            android:id="@+id/view_item_sharetoclass_tv_classname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="2013数学6-7岁暑期新生班"
+            android:textColor="#000000"
+            android:textSize="@dimen/grade_list_classname_textSize" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view_item_sharetoclass_backgroud"
+        android:background="@drawable/grade_list_item_bg_selector"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/view_item_sharetoclass_tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:text="时间：周日上午08:00-10:00"
+            android:textColor="#626262"
+            android:textSize="@dimen/grade_list_class_textSize" />
+
+        <TextView
+            android:id="@+id/view_item_sharetoclass_tv_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/view_item_sharetoclass_tv_time"
+            android:layout_marginTop="12dp"
+            android:text="地点：中坤馆7教室"
+            android:textColor="#626262"
+            android:textSize="@dimen/grade_list_class_textSize" />
+
+        <CheckBox
+            android:id="@+id/view_item_sharetoclass_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_share_checkbox"
+            android:button="@null"
+            android:checked="true" />
+    </RelativeLayout>
+
+</RelativeLayout>

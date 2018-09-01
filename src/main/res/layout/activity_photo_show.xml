@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8" >
+
+    <ImageView
+        android:id="@+id/iv_image_show"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:id="@+id/rl_photo_show_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/title_bg" >
+
+        <ImageButton
+            android:layout_width="@dimen/back_width"
+            android:layout_height="@dimen/back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/back_margin_left"
+            android:background="@drawable/back_selector"
+            android:onClick="doBack" />
+
+        <TextView
+            android:id="@+id/ib_grade_chat_student"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_white_selector"
+            android:clickable="true"
+            android:gravity="center"
+            android:onClick="save"
+            android:text="保存"
+            android:textColor="#3dcad2" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_image_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_photo_detail_content_normal"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:textSize="16sp" />
+
+</RelativeLayout>

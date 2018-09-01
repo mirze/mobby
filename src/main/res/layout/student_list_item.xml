@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="9dp"
+    android:paddingTop="9dp" >
+
+    <com.up72.mobby.views.FilletImageView
+        android:id="@+id/iv_student_head_photo"
+        android:layout_width="@dimen/chat_item_photo_heightAndWidth"
+        android:layout_height="@dimen/chat_item_photo_heightAndWidth"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/iv_student_sex"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignBottom="@id/iv_student_head_photo"
+        android:layout_alignRight="@id/iv_student_head_photo" />
+
+    <ImageView
+        android:id="@+id/iv_student_home_work_status"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignLeft="@id/iv_student_head_photo"
+        android:layout_alignTop="@id/iv_student_head_photo"
+        android:src="@drawable/student_list_finish_homework"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_student_list_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_student_head_photo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="3dp"
+        android:gravity="center"
+        android:text="郭晓蓓"
+        android:textColor="#79889b" />
+
+</RelativeLayout>

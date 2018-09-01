@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_f8f8f8" >
+
+    <LinearLayout
+        android:id="@+id/activity_photo_detail_ll_photoarea"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <com.up72.mobby.views.HackyViewPager
+            android:id="@+id/activity_photo_detail_hvp_photo"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:spacing="5dp"
+            android:unselectedAlpha="1.0" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/activity_photo_detail_rl_titlearea"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/title_bg"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:layout_width="@dimen/back_width"
+            android:layout_height="@dimen/back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/back_margin_left"
+            android:background="@drawable/back_selector"
+            android:onClick="doBack" />
+
+        <TextView
+            android:id="@+id/activity_photo_detail_tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="2013/10/23 15:30"
+            android:textColor="#626262"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/ib_grade_chat_student"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_white_selector"
+            android:gravity="center"
+            android:clickable="true"
+            android:onClick="doMore"
+            android:text="更多"
+            android:textColor="#3dcad2" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/activity_photo_detail_rl_buttom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/selector_photo_detail_content"
+        android:onClick="doEdit" >
+
+        <Button
+            android:id="@+id/activity_photo_detail_btn_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_photo_detail_eidt"
+            android:onClick="doEdit" />
+
+        <TextView
+            android:id="@+id/activity_photo_detail_tv_content"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/activity_photo_detail_btn_edit"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="宝宝第一次自己洗衣服好感动，呜呜呜..."
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

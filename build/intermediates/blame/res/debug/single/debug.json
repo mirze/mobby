@@ -1,0 +1,2258 @@
+[
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_center_back.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\loading_center_back.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_item_teacher_finish_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_item_teacher_finish_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recorde_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\recorde_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_edit.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\album_edit.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex7004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex7004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_right_pic_1.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_right_pic_1.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_number_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\news_number_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29016.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29016.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keybord_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\keybord_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_list.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\student_list.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_seekbar.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\drawable_seekbar.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_change_head_photo_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\change_head_photo_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_photo_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_photo_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_dialog_red.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_btn_dialog_red.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_loading_progress.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_progress.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recore_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\recore_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_item_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_item_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_news_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_news_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_content_pressed.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_content_pressed.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_top.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_top.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_load.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\login_load.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_time_dot.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_time_dot.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_huatong.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_huatong.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_thumb.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex11004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex11004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_list_teacher_name_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_list_teacher_name_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_main_welisten.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_tab_main_welisten.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_bottum_click.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_bottum_click.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_exit_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_exit_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_exit_dialog.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_username.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\login_username.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_tab_news.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_tab_news.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_vedio_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_vedio_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_me_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_me_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\title_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex7002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex7002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex22004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex22004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_offical_time.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\offical_time.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29018.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29018.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_welisten_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_welisten_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\back_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_list_time_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_list_time_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_record_pic.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\anim_record_pic.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_detail_content_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_detail_content_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_chat_left_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_chat_left_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_mypic_line.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_mypic_line.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_grade_list_item_student.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\grade_list_item_student.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welistendetail_overlay2.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welistendetail_overlay2.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex30001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex30001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_class_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_class_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14011.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14011.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_chat.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_chat.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_focused.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_change_photo_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\change_photo_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_pic_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_pic_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_chat_record_dialog.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\delete_chat_record_dialog.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_middle_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_item_middle_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_noclick_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\btn_noclick_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex15002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex15002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_welisten_newest.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_welisten_newest.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex11002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex11002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_bottom.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\from_bottom.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\cancel_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_pic_3.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login_pic_3.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_expression_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_expression_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_item.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_item.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_task.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\album_task.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_time_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_time_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_take_picture_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\chat_take_picture_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_send_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_send_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_warn_bg_tab.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\news_warn_bg_tab.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_player.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_player.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offical_item_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\offical_item_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item_mypic_line.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\bg_item_mypic_line.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_me_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_me_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_photo_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_photo_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_big_image.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\big_image.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_photo_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_photo_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divider.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\divider.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default1.jpg.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\default1.jpg"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_update_dialog.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login_update_dialog.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_feedback_bg.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_feedback_bg.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_comment.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\new_comment.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welisten_head_overlay.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welisten_head_overlay.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_comment.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_comment.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_blue_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\button_blue_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_edit_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\login_edit_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_item_teacher_time_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_item_teacher_time_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keybord_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\keybord_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_share_check_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_share_check_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_offical_item_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\offical_item_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_out.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_class_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_class_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex22002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex22002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex19003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex19003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_welistencomment.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_welistencomment.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex26002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex26002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_reflushing.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_reflushing.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_load.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\down_load.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_album_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_album_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4010.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4010.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_loading.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\login_loading.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_blue_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_blue_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_photo_list.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_photo_list.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_chat_item.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_chat_item.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_feedback.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\setting_feedback.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_shengbo1.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_shengbo1.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14015.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14015.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\viewpager.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_like_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_like_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_confirm_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\dialog_confirm_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_vedio_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_vedio_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_handle_album_delete_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\handle_album_delete_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default3.jpg.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\default3.jpg"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_record_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_record_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_news_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_news_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_other_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_other_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_below_light_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_below_light_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_welisten_comment.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_welisten_comment.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_girl.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_self_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_self_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29010.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29010.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex32003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex32003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default2.jpg.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\default2.jpg"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_mid.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_mid.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_welisten_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_welisten_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14014.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14014.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_shengbo2.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_shengbo2.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_chat_item_right.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_chat_item_right.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_change_head_photo_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\change_head_photo_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_welisten_newest.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\fragment_welisten_newest.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5010.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5010.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_offline_notice.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\offline_notice.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14013.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14013.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_item_sliding.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_item_sliding.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_pic_1.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login_pic_1.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dot_bar_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dot_bar_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_dialog_blue.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_btn_dialog_blue.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_item_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_item_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_expression.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\expression.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_me_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_me_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex3002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex3002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_class_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_class_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dilog_up.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dilog_up.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dilog_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dilog_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welistenlist.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_welistenlist.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_feedback_content_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\feedback_content_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_notime.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_notime.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_main_class.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_tab_main_class.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_shengbo4.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_shengbo4.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_item_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_item_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_share.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\album_share.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_official_news_item.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\official_news_item.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_dialog_gray.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_btn_dialog_gray.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_below_optionsbg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_below_optionsbg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4011.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4011.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_paste.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\image_paste.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_other_tiem_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_other_tiem_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welistencomment_title_tips.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welistencomment_title_tips.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_normal_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_normal_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29020.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29020.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_photo_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_photo_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_show.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_photo_show.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_news.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\notification_news.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_radius_shape.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_radius_shape.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_record_right_pic.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\anim_record_right_pic.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welisten_view_pager_title_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welisten_view_pager_title_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_load.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\load.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_play_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_play_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_grade_list_student.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\grade_list_student.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_photo_press.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_photo_press.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tx_bg_bt.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\tx_bg_bt.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_self_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_self_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5012.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5012.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spread_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\spread_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_sharetoclass.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_sharetoclass.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_main_photo.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_tab_main_photo.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line_welisten_divider.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\line_welisten_divider.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_expression_item.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\expression_item.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_chat_right_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_chat_right_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_none_thumb.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\seekbar_none_thumb.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_student_default_girl.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\student_default_girl.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4013.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4013.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_fliploading.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\layout_fliploading.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_change_photo_bg.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_change_photo_bg.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_camero.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_camero.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex15001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex15001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_birthday_news_list.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\birthday_news_list.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog_confrim_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dialog_confrim_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_welisten_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_welisten_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_share_check_checked.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_share_check_checked.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_edit_text_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\login_edit_text_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_handle_album_delete_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\handle_album_delete_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_gray_pressed.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_gray_pressed.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_camero_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_camero_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_play_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_play_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_bottum.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_bottum.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_light_blue.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_light_blue.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welisten_view_pager_titile.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welisten_view_pager_titile.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_list_item_down.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_list_item_down.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_reflush.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_reflush.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_redy.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_redy.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_offical_chakan.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\offical_chakan.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4012.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4012.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_photo_press.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_photo_press.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_shengbo3.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_shengbo3.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_teacher_divider.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_teacher_divider.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_take_picture_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_take_picture_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_change_photo_nomol.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\change_photo_nomol.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_tab_welisten.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_tab_welisten.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_detail_content_pressed.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_detail_content_pressed.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_change_photo_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\change_photo_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_camero_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\video_camero_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_delete_chatrecord_bg.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_delete_chatrecord_bg.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex22005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex22005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex3001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex3001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_me_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_me_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_current.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_current.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_welisten_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_welisten_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29019.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29019.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_grade_list_item_teacher.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\grade_list_item_teacher.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_main_me.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_tab_main_me.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_recorde_cancel_send.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\recorde_cancel_send.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_fankui.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_fankui.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5011.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5011.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handle_album_delete_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\handle_album_delete_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welistendetail.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_welistendetail.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_expression_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\chat_expression_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_class_finish.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\class_finish.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_main_news.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_tab_main_news.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex25001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex25001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_student_default_boy.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\student_default_boy.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_welisten_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_welisten_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_take_picture_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_take_picture_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_offical_item_bg_nor.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\offical_item_bg_nor.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_mypic.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_mypic.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_not_online.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\not_online.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_detail_edit_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_detail_edit_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_share_checkbox.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_share_checkbox.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welistendetail_overlay1.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welistendetail_overlay1.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex9001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex9001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_grade.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\delete_grade.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_photo.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_photo.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_send_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\chat_send_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex7003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex7003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\cancel_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_class_nologin.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\class_nologin.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_top_click.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_top_click.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_right_pic_2.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_right_pic_2.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tv_guide_start_taste_bg_nor.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\tv_guide_start_taste_bg_nor.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_list_item_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_list_item_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line_welistendetail.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\line_welistendetail.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_list_item.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\student_list_item.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tv_guide_start_taste_bg_sel.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\tv_guide_start_taste_bg_sel.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_class_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_class_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29017.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29017.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex13001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex13001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_send_fail_alert_icon.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\send_fail_alert_icon.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_teacher_grade_chat.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\teacher_grade_chat.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_down_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_down_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_loading_up_anim.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\loading_up_anim.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_class_un_start.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\class_un_start.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bitmap_mypic_line.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\bitmap_mypic_line.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_dialog.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_dialog.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex26001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex26001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_record_left_pic.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\anim_record_left_pic.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_news_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_news_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex19004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex19004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex8001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex8001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_welistendetail_pause.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_btn_welistendetail_pause.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex24001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex24001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_loading_progress.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\refresh_loading_progress.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_news_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_news_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_pause_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_pause_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_changephoto_bg.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_changephoto_bg.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_list_divider.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\new_list_divider.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_news_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_news_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29015.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29015.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_progress.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\video_progress.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_news_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_news_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spread_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\spread_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_news_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_news_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spread_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\spread_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_welisten_comment.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\dialog_welisten_comment.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_other_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_other_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex27001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex27001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex19002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex19002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_offical_huifu.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\offical_huifu.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex22003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex22003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_white_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\button_white_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_photo.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\change_photo.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_class_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_class_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_official_news_details.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\official_news_details.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex23001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex23001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex26003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex26003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_delete.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_delete.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listview_item_textcolor_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\listview_item_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_top_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_item_top_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_gray_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_gray_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_photo_press.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_photo_press.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keybord_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\keybord_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex12001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex12001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex16001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex16001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_album_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_album_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_official_news_list.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\official_news_list.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_private_chat.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\private_chat.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_bg.jpg.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\start_bg.jpg"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_red_pressed.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_red_pressed.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_bottom_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_item_bottom_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_red_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_red_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_left_pic_3.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_left_pic_3.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welistendetail.jpg.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welistendetail.jpg"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_dilog_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_dilog_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_me_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_me_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex11003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex11003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_grade_list_teacher.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\grade_list_teacher.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_loading_down_anim.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\loading_down_anim.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_exit_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_exit_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_app_download.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\notification_app_download.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_mid_click.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_mid_click.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_et_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\et_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29011.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29011.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_mypic_content.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_mypic_content.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_official_news_comment.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\official_news_comment.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_photo_press.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_photo_press.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_detail_edit_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_detail_edit_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_cancle.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_cancle.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_head_flush.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\head_flush.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_expression_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_expression_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_triangle.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\triangle.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14012.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14012.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpage_dots.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\viewpage_dots.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_loading_dialog.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login_loading_dialog.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_list_icon.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\news_list_icon.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_pic_2.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\login_pic_2.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tx_bg_top.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\tx_bg_top.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_photo_detail_content.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_photo_detail_content.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_chat_item_left.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\news_list_chat_item_left.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_icon_jiantou.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_jiantou.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog_confrim_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dialog_confrim_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_left_pic_1.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_left_pic_1.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welisten_indicator.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welisten_indicator.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_item_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_item_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex2006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex2006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_guide_start_taste_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\tv_guide_start_taste_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex1007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex1007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex30005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex30005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_chat.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\video_chat.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex32002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex32002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14007.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14007.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_list_item.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_list_item.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancle_slector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\cancle_slector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_photo_detail_eidt.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_photo_detail_eidt.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_list_item_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_list_item_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_album_more.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\album_more.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_tab_me.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_tab_me.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex17001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex17001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_change_head_photo_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\change_head_photo_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_list_item_bg_down.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\news_list_item_bg_down.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mypic.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_mypic.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex10001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex10001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_delete_dialog_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_delete_dialog_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_welistendetail_play.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\selector_btn_welistendetail_play.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_time_so_long.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_time_so_long.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_welisten_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_welisten_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14008.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14008.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_detail.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_photo_detail.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex27004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex27004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_class_top_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\class_top_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_record_press.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_record_press.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_password.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\login_password.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dot_bar_focused.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\dot_bar_focused.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_progressbar.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_progressbar.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fliploading_up_arrow.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\fliploading_up_arrow.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_student_list_finish_homework.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\student_list_finish_homework.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_grade_chat.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\grade_chat.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14009.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14009.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_top.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\to_top.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_list_name_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_list_name_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grade_news_warn_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\grade_news_warn_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex22001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex22001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_left_pic_2.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_left_pic_2.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_click_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\btn_click_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_news_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_news_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_album_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\chat_album_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex32001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex32001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_up_back.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\loading_up_back.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex27002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex27002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_exit_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_exit_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_below_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_below_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex30004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex30004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_click_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_click_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex21002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex21002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29012.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29012.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_photo.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\delete_photo.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_welisten_recommend.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\fragment_welisten_recommend.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_take_vedio_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\chat_take_vedio_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_down_back.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\loading_down_back.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_pause_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_pause_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4006.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4006.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_class_top_finish_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\class_top_finish_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sharetoclass.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_sharetoclass.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_photo_detail_more.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\dialog_photo_detail_more.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex7001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex7001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_welisten_view_pager_title_checked.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_welisten_view_pager_title_checked.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welisten_recommed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welisten_recommed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_preview.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex30002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex30002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_item_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_item_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_click.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\click.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_head.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_me_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_me_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_photo_content_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\bg_photo_content_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_divider.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_item_divider.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex14010.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex14010.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29013.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29013.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_class_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_class_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_feedbacl_mailbox_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\feedbacl_mailbox_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex5003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex5003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex6003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex6003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex19001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex19001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_send_normal.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\chat_send_normal.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex26004.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex26004.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex11001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex11001.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_list_content_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\news_list_content_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex30003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex30003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_me_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_me_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_me_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_me_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welisten_comment.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\activity_welisten_comment.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_normal.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_version.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\anim\\anim_version.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_personal_info_bg.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_personal_info_bg.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_right_pic_3.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\record_right_pic_3.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex29014.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex29014.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_handle_album_delete_down.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\handle_album_delete_down.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_tab_photo.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_tab_photo.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_container_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\setting_item_container_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boy.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\boy.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welistendetail_like_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welistendetail_like_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_welisten_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-ldpi\\bg_welisten_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fliploading_down_arrow.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\fliploading_down_arrow.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex18002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex18002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_title_bg.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\blue_title_bg.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex27003.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex27003.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-960x540_bg_class_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-960x540\\bg_class_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_welisten_new_dot.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ic_welisten_new_dot.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex4005.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex4005.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item_welisten_recommend.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_item_welisten_recommend.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex28002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex28002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex20002.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex20002.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-800x480_bg_welisten_normal.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-800x480\\bg_welisten_normal.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_downing.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\setting_downing.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grade_item_delete_bg_selector.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable\\grade_item_delete_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_load.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\up_load.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_tab_class.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\view_tab_class.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\layout_verpage_image.xml.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\layout\\verpage_image.xml"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-854x480_bg_class_pressed.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi-854x480\\bg_class_pressed.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_dialog_blue_pressed.9.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\button_dialog_blue_pressed.9.png"
+    },
+    {
+        "merged": "G:\\StudioWorkspase\\mobby2.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex31001.png.flat",
+        "source": "G:\\StudioWorkspase\\mobby2.5\\app\\src\\main\\res\\drawable-hdpi\\ex31001.png"
+    }
+]

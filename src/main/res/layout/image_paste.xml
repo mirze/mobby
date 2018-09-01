@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tx_bg_top"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:paddingTop="10dp"
+        android:text="发送以下图片？"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tx_bg_bt"
+        android:paddingBottom="20dp" >
+
+        <ImageView
+            android:id="@+id/image_paste_show"
+            android:layout_width="200dp"
+            android:layout_height="140dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dialog_confrim_normal" />
+
+        <Button
+            android:id="@+id/btn_image_cancle"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_alignLeft="@+id/image_paste_show"
+            android:layout_below="@id/image_paste_show"
+            android:background="@drawable/cancle_slector"
+            android:gravity="center"
+            android:text="取消" />
+
+        <Button
+            android:id="@+id/btn_image_ok"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@id/btn_image_cancle"
+            android:layout_alignRight="@id/image_paste_show"
+            android:layout_below="@id/image_paste_show"
+            android:background="@drawable/dialog_confirm_bg_selector"
+            android:gravity="center"
+            android:text="发送" />
+    </RelativeLayout>
+
+</LinearLayout>

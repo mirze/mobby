@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8" >
+
+    <RelativeLayout
+        android:id="@+id/activity_photo_detail_rl_titlearea"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/title_bg" >
+
+        <ImageButton
+            android:layout_width="@dimen/back_width"
+            android:layout_height="@dimen/back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/back_margin_left"
+            android:background="@drawable/back_selector"
+            android:onClick="doBack" />
+
+        <TextView
+            android:id="@+id/activity_welistendetail_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="如何培养孩子的专注力专注力专注力"
+            android:textColor="#626262"
+            android:singleLine="true"
+            android:textSize="@dimen/title_textSize" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/activity_photo_detail_rl_titlearea"
+        android:background="@drawable/bg_welistendetail" >
+
+        <TextView
+            android:id="@+id/activity_welistendetail_tv_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawableBottom="@drawable/line_welistendetail"
+            android:drawablePadding="7dp"
+            android:gravity="center"
+            android:paddingTop="7dp"
+            android:text="糖糖"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/activity_welistendetail_tv_name"
+            android:layout_marginTop="80dp" >
+
+            <com.up72.mobby.views.CircularImage
+                android:id="@+id/cover_user_photo"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:layout_width="208dp"
+                android:layout_height="208dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/bg_welistendetail_overlay2"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/bg_welistendetail_overlay1"
+                android:scaleType="centerCrop" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/activity_welisten_detail_ll_btnarea"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="80dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/activity_welistendetail_rl_zan"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/selector_photo_detail_content"
+                android:padding="12dp" >
+
+                <TextView
+                    android:id="@+id/activity_welistendetail_tv_iszan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:drawableLeft="@drawable/ic_welistendetail_like_normal"
+                    android:drawablePadding="7dp"
+                    android:text="喜欢"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/activity_welistendetail_tv_zancount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="fill_parent" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/selector_photo_detail_content"
+                android:onClick="doComment"
+                android:padding="12dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:drawableLeft="@drawable/ic_welistendetail_comment"
+                    android:drawablePadding="7dp"
+                    android:text="评论"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/activity_welistendetail_tv_commentcount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/activity_welisten_detail_tv_addone"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/activity_welisten_detail_ll_btnarea"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:gravity="left|center_vertical"
+            android:text="+1"
+            android:textColor="#fff45c"
+            android:textSize="13sp"
+            android:visibility="invisible" />
+
+        <com.up72.mobby.views.ExpandProgressLayout
+            android:id="@+id/activity_welistendetail_layout_main"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true" >
+
+            <View
+                android:id="@+id/expandprogressbar_bg"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/bg_progressbar" />
+
+            <View
+                android:id="@+id/expandprogressbar_ready"
+                android:layout_width="30dp"
+                android:layout_height="33dp"
+                android:layout_alignLeft="@id/expandprogressbar_bg"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6px"
+                android:background="@drawable/bg_redy" />
+
+            <View
+                android:id="@+id/expandprogressbar_current"
+                android:layout_width="30dp"
+                android:layout_height="33dp"
+                android:layout_alignLeft="@id/expandprogressbar_bg"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6px"
+                android:background="@drawable/bg_current" />
+
+            <Button
+                android:id="@+id/expandprogressbar_play"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_alignLeft="@id/expandprogressbar_bg"
+                android:layout_centerVertical="true"
+                android:background="@drawable/selector_btn_welistendetail_play" />
+
+            <TextView
+                android:id="@+id/expandprogressbar_time"
+                android:layout_width="48dp"
+                android:layout_height="18dp"
+                android:layout_above="@id/expandprogressbar_play"
+                android:layout_alignLeft="@id/expandprogressbar_play"
+                android:gravity="center"
+                android:textColor="#626262"
+                android:textSize="12sp" />
+        </com.up72.mobby.views.ExpandProgressLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

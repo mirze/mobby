@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/title_bg"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:layout_width="@dimen/back_width"
+            android:layout_height="@dimen/back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/back_margin_left"
+            android:background="@drawable/back_selector"
+            android:onClick="doBack" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="分享到我的班级"
+            android:textColor="#626262"
+            android:textSize="@dimen/title_textSize" />
+
+        <Button
+            android:id="@+id/btn_share_save"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_white_selector"
+            android:gravity="center"
+            android:onClick="doPhoto"
+            android:text="发送"
+            android:textColor="#3dcad2" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/activity_sharetoclass_lv_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#ffffff"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0dp"
+        android:listSelector="@drawable/grade_list_item_down"
+        android:paddingLeft="@dimen/grade_list_student_listview_padding_left"
+        android:paddingRight="@dimen/grade_list_student_listview_padding_right"
+        android:scrollbars="none" >
+    </ListView>
+
+</LinearLayout>

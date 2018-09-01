@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_comment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/title_bg" >
+
+        <ImageButton
+            android:id="@+id/ib_offical_comment_back"
+            android:layout_width="@dimen/back_width"
+            android:layout_height="@dimen/back_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/back_margin_left"
+            android:background="@drawable/back_selector" />
+
+        <TextView
+            android:id="@+id/tv_offical_comment_top_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="摩比思维馆"
+            android:textColor="#626262"
+            android:textSize="@dimen/title_textSize" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_official_comment_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/color_f8f8f8"
+        android:cacheColorHint="#0000"
+        android:clickable="false"
+        android:divider="@null"
+        android:dividerHeight="5dp"
+        android:fadingEdgeLength="0dip"
+        android:focusable="false"
+        android:listSelector="#00ffffff"
+        android:scrollbarStyle="outsideOverlay"
+        android:stackFromBottom="false"
+        android:transcriptMode="alwaysScroll" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="@drawable/chat_below_bg"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/et_offical_comment_content"
+            android:layout_width="0dip"
+            android:layout_height="@dimen/chat_et_height"
+            android:layout_marginLeft="@dimen/chat_margin_left"
+            android:layout_weight="1.0"
+            android:background="@drawable/et_bg"
+            android:gravity="center_vertical"
+            android:hint="说点什么....."
+            android:padding="2dp"
+            android:textSize="@dimen/chat_content_textSize"
+            android:textColor="#626262" />
+
+        <TextView
+            android:id="@+id/ib_offical_comment_send"
+            android:layout_width="@dimen/chat_send_width"
+            android:layout_height="@dimen/chat_send_height"
+            android:layout_marginLeft="@dimen/chat_margin"
+            android:layout_marginRight="@dimen/chat_margin"
+            android:background="@drawable/chat_send_selector"
+            android:gravity="center"
+            android:text="发送"
+            android:textColor="#313131" />
+    </LinearLayout>
+
+</LinearLayout>

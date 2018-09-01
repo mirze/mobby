@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#D1D1D1</color>
+    <color name="black">#000000</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_e2e4e7">#E2E4E7</color>
+    <color name="color_f66165">#f66165</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_video">#3dcad2</color>
+    <color name="demo">#66000000</color>
+    <color name="grade_item_delete_bg_nor">#898c8d</color>
+    <color name="grade_item_delete_bg_sel">#707271</color>
+    <color name="grade_list_teacher_name">#5b7391</color>
+    <color name="gray">#C5CBD4</color>
+    <color name="login_input_box_gray_text_color">#A8A9AC</color>
+    <color name="news_list_content_color">#a8a9ac</color>
+    <color name="news_list_itme_bg">#707271</color>
+    <color name="news_list_time_color">#8aa3c1</color>
+    <color name="progress">#fff100</color>
+    <color name="progress_bg">#707070</color>
+    <color name="translate">#00ffffff</color>
+    <color name="transparent_background">#80ffffff</color>
+    <color name="white">#ffffff</color>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="album_et_height">80dp</dimen>
+    <dimen name="album_et_margin_left">20dp</dimen>
+    <dimen name="album_et_margin_right">20dp</dimen>
+    <dimen name="album_et_margin_top">20dp</dimen>
+    <dimen name="album_et_textSize">17sp</dimen>
+    <dimen name="back_height">40dp</dimen>
+    <dimen name="back_margin_left">5dp</dimen>
+    <dimen name="back_width">30dp</dimen>
+    <dimen name="button_height">35dp</dimen>
+    <dimen name="button_textSize">15sp</dimen>
+    <dimen name="button_width">75dp</dimen>
+    <dimen name="chat_content_one_padding">5dp</dimen>
+    <dimen name="chat_content_padding">0dp</dimen>
+    <dimen name="chat_content_textSize">15sp</dimen>
+    <dimen name="chat_et_height">40dp</dimen>
+    <dimen name="chat_image_height">40dp</dimen>
+    <dimen name="chat_image_width">40dp</dimen>
+    <dimen name="chat_item_content_maxwidth">150dp</dimen>
+    <dimen name="chat_item_photo_heightAndWidth">60dp</dimen>
+    <dimen name="chat_margin">10dp</dimen>
+    <dimen name="chat_margin_left">5dp</dimen>
+    <dimen name="chat_more_heightAndWidth">45dp</dimen>
+    <dimen name="chat_more_textSize">15sp</dimen>
+    <dimen name="chat_send_height">33dp</dimen>
+    <dimen name="chat_send_width">50dp</dimen>
+    <dimen name="chat_video_margin_bottom">-51dp</dimen>
+    <dimen name="dot_size">5dp</dimen>
+    <dimen name="grade_list_class_textSize">15sp</dimen>
+    <dimen name="grade_list_classname_textSize">17sp</dimen>
+    <dimen name="grade_list_item_finish_heighAndWidth">50dp</dimen>
+    <dimen name="grade_list_item_padding_top">15dp</dimen>
+    <dimen name="grade_list_item_photo_heightAndWidth">70dp</dimen>
+    <dimen name="grade_list_item_photo_margin_bottom">10dp</dimen>
+    <dimen name="grade_list_item_photo_margin_top">10dp</dimen>
+    <dimen name="grade_list_item_photo_padding">4dp</dimen>
+    <dimen name="grade_list_item_warn_heightAndWidth">22dp</dimen>
+    <dimen name="grade_list_student_listview_padding_left">15dp</dimen>
+    <dimen name="grade_list_student_listview_padding_right">15dp</dimen>
+    <dimen name="grade_list_teacher_listview_padding_left">15dp</dimen>
+    <dimen name="grade_list_teacher_listview_padding_right">15dp</dimen>
+    <dimen name="headphoto_radius">10dp</dimen>
+    <dimen name="login_dialog_margin_top">10dp</dimen>
+    <dimen name="login_dialog_textSize">15sp</dimen>
+    <dimen name="login_et_height">50dp</dimen>
+    <dimen name="login_et_padding_left">37dp</dimen>
+    <dimen name="login_et_padding_right">10dp</dimen>
+    <dimen name="login_et_textSize">17sp</dimen>
+    <dimen name="login_iv_height">26dp</dimen>
+    <dimen name="login_iv_width">22dp</dimen>
+    <dimen name="login_ll_margin_bottom">35dp</dimen>
+    <dimen name="login_ll_padding_leftandright">20dp</dimen>
+    <dimen name="login_loading_height">116dp</dimen>
+    <dimen name="login_loading_width">170dp</dimen>
+    <dimen name="login_rl_margin_top">30dp</dimen>
+    <dimen name="login_rl_margin_top_password">15dp</dimen>
+    <dimen name="main_tab_warn_height">10dp</dimen>
+    <dimen name="main_tab_warn_margin_right">10dp</dimen>
+    <dimen name="main_tab_warn_margin_top">10dp</dimen>
+    <dimen name="main_tab_warn_width">10dp</dimen>
+    <dimen name="news_list_item_delete_width">125dp</dimen>
+    <dimen name="news_list_item_diver_height">0.3dp</dimen>
+    <dimen name="news_list_item_height">85dp</dimen>
+    <dimen name="news_list_item_name_textSize">17sp</dimen>
+    <dimen name="news_list_item_padding">5dp</dimen>
+    <dimen name="news_list_item_photo_heightAndWidth">70dp</dimen>
+    <dimen name="news_list_item_photo_margin_left">10dp</dimen>
+    <dimen name="news_list_item_photo_margin_top">10dp</dimen>
+    <dimen name="news_list_item_photo_padding">4dp</dimen>
+    <dimen name="news_list_item_time_margin_right">10dp</dimen>
+    <dimen name="news_list_item_top_info_margin_left">15dp</dimen>
+    <dimen name="news_list_item_top_info_margin_top">10dp</dimen>
+    <dimen name="news_list_item_warn_margin_left">-15dp</dimen>
+    <dimen name="news_list_item_warn_margin_top">3dp</dimen>
+    <dimen name="news_list_net_height">32dp</dimen>
+    <dimen name="offical_list_item_warn_heightAndWidth">22dp</dimen>
+    <dimen name="photo_time_allwidth">72dp</dimen>
+    <dimen name="photo_time_margin_left">20dp</dimen>
+    <dimen name="photo_time_width">52dp</dimen>
+    <dimen name="setting__photo_margin_top">10dp</dimen>
+    <dimen name="setting_bt_exit_height">45dp</dimen>
+    <dimen name="setting_bt_exit_margin_top">20dp</dimen>
+    <dimen name="setting_bt_textSize">20sp</dimen>
+    <dimen name="setting_icon_size">30dp</dimen>
+    <dimen name="setting_item_padding">10dp</dimen>
+    <dimen name="setting_item_textSize">17sp</dimen>
+    <dimen name="setting_jiantou_margin_right">10dp</dimen>
+    <dimen name="setting_margin_left">15dp</dimen>
+    <dimen name="setting_margin_right">15dp</dimen>
+    <dimen name="setting_margin_top">15dp</dimen>
+    <dimen name="setting_name_margin_left">10dp</dimen>
+    <dimen name="setting_photo_heightAndWidth">70dp</dimen>
+    <dimen name="setting_photo_margin_left">10dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="title_textSize">20sp</dimen>
+    <dimen name="welisten_indicator_height">7dp</dimen>
+    <dimen name="welisten_list_item_name_textSize">15sp</dimen>
+    <dimen name="welisten_list_item_photo_heightAndWidth">71dp</dimen>
+    <dimen name="welisten_list_item_textSize">17sp</dimen>
+    <dimen name="welisten_title_height">28dp</dimen>
+    <dimen name="welisten_title_width">70dp</dimen>
+    <integer name="loading_duration">50</integer>
+    <string name="app_name">i摩比</string>
+    <string name="dialog_delete_chat_record">你确定清空聊天记录吗?</string>
+    <string name="dialog_delete_photo">你确定要删除该照片吗?</string>
+    <string name="dialog_exit">您确定退出登录吗？</string>
+    <string name="feedback_content">有什么可以帮您?</string>
+    <string name="feedback_mail">留下您的邮箱,我们会及时回复</string>
+    <string name="login_update_title">发现新版本</string>
+    <string name="no_net_info">当前网络不可用，请检查你的网络设置</string>
+    <string name="photo">拍几张照片吧！\n记录孩子在摩比成长的点滴！</string>
+    <string name="setting">我</string>
+    <string name="setting_birthday">2006.06.11</string>
+    <string name="setting_changephoto">更换头像</string>
+    <string name="setting_delete_chat_record">清空聊天记录</string>
+    <string name="setting_feedback">问题反馈</string>
+    <string name="setting_name">郭晓宝</string>
+    <string name="student_list_title">班级通讯录</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:activityOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:activityCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:activityCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:taskCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskToFrontExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskToBackEnterAnimation">@anim/to_top</item>
+        <item name="android:taskToBackExitAnimation">@anim/to_top</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Transparent" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/translate</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="TransparentBottom" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style>
+    <style name="dlg_loading" parent="@android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:backgroundDimEnabled">false</item> <!-- 模糊 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+    </style>
+    <style name="dlg_priority" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item> <!-- 模糊 -->
+
+    </style>
+    <style name="dlg_recorde" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item> <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:windowBackground">@color/translate</item> <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item> <!-- 模糊 -->
+    </style>
+    <style name="imageview_big_dot">
+        <item name="android:paddingLeft">7.0px</item>
+        <item name="android:paddingTop">6.0px</item>
+        <item name="android:paddingRight">7.0px</item>
+        <item name="android:paddingBottom">8.0px</item>
+    </style>
+</resources>

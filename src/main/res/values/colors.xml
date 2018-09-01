@@ -1,0 +1,24 @@
+<resources>
+
+    <color name="demo">#66000000</color>
+    <color name="transparent_background">#80ffffff</color>
+    <color name="translate">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="news_list_itme_bg">#707271</color>
+    <color name="gray">#C5CBD4</color>
+    <color name="grade_list_teacher_name">#5b7391</color>
+    <color name="black">#000000</color>
+    <color name="news_list_content_color">#a8a9ac</color>
+    <color name="news_list_time_color">#8aa3c1</color>
+    <color name="login_input_box_gray_text_color">#A8A9AC</color>
+    <color name="app_color">#D1D1D1</color>
+    <color name="grade_item_delete_bg_sel">#707271</color>
+    <color name="grade_item_delete_bg_nor">#898c8d</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+     <color name="color_video">#3dcad2</color>
+    <color name="color_f66165">#f66165</color>
+    <color name="progress_bg">#707070</color>
+    <color name="progress">#fff100</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_e2e4e7">#E2E4E7</color>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_student_grade_list_top_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/blue_title_bg"
+        android:gravity="center"
+        android:text="班级"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/title_textSize" />
+
+    <com.up72.mobby.views.PullToRefreshListView
+        android:id="@+id/lv_gradelist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingLeft="@dimen/grade_list_teacher_listview_padding_left"
+        android:paddingRight="@dimen/grade_list_teacher_listview_padding_right"
+        android:background="@color/color_f8f8f8"/>
+</LinearLayout>

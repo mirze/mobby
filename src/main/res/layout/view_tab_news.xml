@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/tab_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/selector_tab_main_news" />
+
+    <TextView
+        android:id="@+id/tv_tab_warn"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@id/tab_label"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/news_warn_bg_tab"
+        android:visibility="gone" />
+
+</RelativeLayout>

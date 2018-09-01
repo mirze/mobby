@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">i摩比</string>
+    <string name="setting_name">郭晓宝</string>
+    <string name="setting_birthday">2006.06.11</string>
+    <string name="setting_changephoto">更换头像</string>
+    <string name="setting_feedback">问题反馈</string>
+    <string name="setting_delete_chat_record">清空聊天记录</string>
+    <string name="feedback_mail">留下您的邮箱,我们会及时回复</string>
+    <string name="feedback_content">有什么可以帮您?</string>
+    <string name="dialog_delete_photo">你确定要删除该照片吗?</string>
+    <string name="dialog_delete_chat_record">你确定清空聊天记录吗?</string>
+    <string name="dialog_exit">您确定退出登录吗？</string>
+    <string name="setting">我</string>
+    <string name="student_list_title">班级通讯录</string>
+    <string name="login_update_title">发现新版本</string>
+    <string name="no_net_info">当前网络不可用，请检查你的网络设置</string>
+    <string name="photo">拍几张照片吧！\n记录孩子在摩比成长的点滴！</string>
+
+</resources>

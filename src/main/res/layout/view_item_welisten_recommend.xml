@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/news_list_item_bg_selector"
+    android:padding="@dimen/news_list_item_padding" >
+
+    <RelativeLayout
+        android:id="@+id/view_item_welisten_recommend_rl_head_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <com.up72.mobby.views.FilletImageView
+            android:id="@+id/view_item_welisten_iv_head"
+            android:layout_width="@dimen/welisten_list_item_photo_heightAndWidth"
+            android:layout_height="@dimen/welisten_list_item_photo_heightAndWidth"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignBottom="@id/view_item_welisten_recommend_rl_head_area"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/view_item_welisten_recommend_rl_head_area" >
+
+        <TextView
+            android:id="@+id/view_item_recommend_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="如何培养孩子的专注力"
+            android:textColor="@color/black"
+            android:singleLine="true"
+            android:layout_marginRight="15dp"
+            android:textSize="@dimen/welisten_list_item_textSize" />
+
+        <TextView
+            android:id="@+id/view_item_recommend_tv_lecturer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:text="主讲：陆续"
+            android:textColor="#626262"
+            android:textSize="@dimen/welisten_list_item_name_textSize" />
+
+        <TextView
+            android:id="@+id/view_item_recommend_tv_recommed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:drawableLeft="@drawable/ic_welisten_recommed"
+            android:drawablePadding="5dp"
+            android:text="45"
+            android:textColor="#626262"
+            android:textSize="@dimen/welisten_list_item_name_textSize" />
+    </RelativeLayout>
+
+</RelativeLayout>

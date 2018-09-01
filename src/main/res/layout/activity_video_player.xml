@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="#000000" >
+
+        <TextView
+            android:id="@+id/tv_video_show_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:text="返回"
+            android:textColor="#3dcad2"
+            android:textSize="@dimen/title_textSize" />
+
+        <TextView
+            android:id="@+id/tv_video_show_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:onClick="doSave"
+            android:text="保存"
+            android:textColor="#3dcad2"
+            android:textSize="@dimen/title_textSize" />
+    </RelativeLayout>
+
+    <SeekBar
+        android:id="@+id/pb_video_show_progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="16dp"
+        android:progress="0"
+        android:progressDrawable="@drawable/video_progress"
+        android:thumb="@drawable/seekbar_thumb"
+        android:thumbOffset="0dp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_video_show_record"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <VideoView
+            android:id="@+id/vv_video_surface"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+
+        <ImageButton
+            android:id="@+id/ib_video_show_player"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/video_player"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#000000"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+    </RelativeLayout>
+
+</LinearLayout>

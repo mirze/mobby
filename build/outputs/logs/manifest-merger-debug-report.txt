@@ -1,0 +1,663 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:1-365:12
+	package
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:7:5-9:40
+INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:9:9-37
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:11:5-20:40
+	android:compatibleWidthLimitDp
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:13:9-45
+	android:largeScreens
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:19:9-36
+	android:requiresSmallestWidthDp
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:17:9-46
+	android:normalScreens
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:20:9-37
+	android:resizeable
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:18:9-34
+	android:anyDensity
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:12:9-34
+	android:largestWidthLimitDp
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:15:9-43
+permission#com.up72.mobby.permission.JPUSH_MESSAGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:22:5-25:18
+	android:protectionLevel
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:23:9-63
+uses-permission#com.up72.mobby.permission.JPUSH_MESSAGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:31:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:32:5-84
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:32:22-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:36:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:37:5-76
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:37:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:38:5-76
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:38:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:40:5-89
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:40:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:41:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:41:22-76
+uses-feature#android.hardware.camera
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:43:5-60
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:43:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:44:5-70
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:44:19-67
+uses-permission#android.permission.CAMERA
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:46:5-65
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:46:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:47:5-69
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:47:22-66
+uses-permission#android.permission.READ_LOGS
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:48:5-68
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:48:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:49:5-71
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:49:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:50:5-71
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:50:22-68
+uses-permission#android.permission.INTERNET
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:51:5-67
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:51:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:52:5-81
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:52:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:53:5-81
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:53:22-78
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:55:5-84
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:55:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:56:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:56:22-76
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:57:5-75
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:57:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:58:5-75
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:58:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:59:5-80
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:59:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:63:5-73
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:63:22-70
+application
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:65:5-363:19
+	android:label
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:69:9-41
+	android:icon
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:68:9-38
+	android:allowBackup
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:67:9-35
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:66:9-73
+activity#com.up72.mobby.activities.WelcomeActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:72:9-82:20
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:75:13-49
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:74:13-74
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:76:13-71
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:73:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.MAIN
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:80:27-74
+activity#com.up72.mobby.activities.MainActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:85:9-88:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:87:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:88:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:86:13-66
+activity#com.up72.mobby.activities.MyPhotoActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:90:9-94:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:93:13-49
+	android:launchMode
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:92:13-44
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:94:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:91:13-69
+activity#com.up72.mobby.activities.VideoActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:95:9-98:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:97:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:98:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:96:13-67
+activity#com.up72.mobby.activities.VideoPreviewActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:99:9-102:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:101:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:102:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:100:13-74
+activity#com.up72.mobby.activities.VideoPlayerActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:103:9-106:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:105:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:106:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:104:13-73
+activity#com.up72.mobby.activities.AlbumEditActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:107:9-110:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:109:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:110:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:108:13-71
+activity#com.up72.mobby.activities.PhotoDetailActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:111:9-114:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:113:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:114:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:112:13-73
+activity#com.up72.mobby.activities.WeListenListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:116:9-119:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:119:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:117:13-74
+activity#com.up72.mobby.activities.WeListenDetailActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:120:9-123:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:122:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:123:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:121:13-76
+activity#com.up72.mobby.activities.WeListenCommentActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:124:9-128:57
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:128:13-54
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:127:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:125:13-77
+activity#com.up72.mobby.activities.AlbumTaskActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:130:9-134:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:132:13-72
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:134:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:131:13-71
+activity#com.up72.mobby.activities.AlbumShowActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:136:9-139:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:138:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:139:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:137:13-71
+activity#com.up72.mobby.activities.StudentGradeListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:141:9-144:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:143:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:144:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:142:13-78
+activity#com.up72.mobby.activities.ViewPageActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:146:9-149:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:148:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:149:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:147:13-70
+activity#com.up72.mobby.activities.NewsListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:151:9-153:69
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:153:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:152:13-70
+activity#com.up72.mobby.activities.AlbumActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:155:9-158:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:157:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:158:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:156:13-67
+activity#com.up72.mobby.activities.HandleAlbumActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:160:9-163:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:162:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:163:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:161:13-73
+activity#com.up72.mobby.activities.ShareToClassActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:165:9-168:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:167:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:168:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:166:13-74
+activity#com.up72.mobby.activities.StudentListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:170:9-173:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:172:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:173:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:171:13-73
+activity#com.up72.mobby.activities.TeacherGradeListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:175:9-178:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:177:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:178:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:176:13-78
+activity#com.up72.mobby.activities.NewsListChatActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:180:9-183:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:182:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:183:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:181:13-74
+activity#com.up72.mobby.activities.SettingActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:185:9-188:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:187:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:188:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:186:13-69
+activity#com.up72.mobby.activities.ChangeHeadPhotoActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:190:9-192:56
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:192:13-53
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:191:13-77
+activity#com.up72.mobby.activities.FeedBackActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:194:9-197:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:196:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:197:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:195:13-70
+activity#com.up72.mobby.activities.GroupMessageActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:199:9-202:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:201:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:202:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:200:13-74
+activity#com.up72.mobby.activities.LoginActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:204:9-208:75
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:206:13-49
+	android:windowSoftInputMode
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:208:13-72
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:207:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:205:13-67
+activity#com.up72.mobby.activities.GradeChatActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:210:9-214:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:213:13-49
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:212:13-72
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:214:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:211:13-71
+activity#com.up72.mobby.activities.TeacherGradeChatActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:216:9-220:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:219:13-49
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:218:13-72
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:220:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:217:13-78
+activity#com.up72.mobby.activities.OfficalCommentActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:222:9-226:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:225:13-49
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:224:13-72
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:226:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:223:13-76
+activity#com.up72.mobby.activities.OfficalDetailsActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:228:9-231:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:230:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:231:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:229:13-76
+activity#com.up72.mobby.activities.OfficalListActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:233:9-236:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:235:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:236:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:234:13-73
+activity#com.up72.mobby.activities.BigImageActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:237:9-240:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:239:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:240:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:238:13-70
+activity#com.up72.mobby.activities.BirthdayNewsActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:241:9-244:69
+	android:screenOrientation
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:243:13-49
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:244:13-66
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:242:13-74
+meta-data#BaiduMobAd_STAT_ID
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:248:9-250:42
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:250:13-39
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:249:13-46
+meta-data#BaiduMobAd_CHANNEL
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:253:9-255:44
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:255:13-41
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:254:13-46
+meta-data#BaiduMobAd_EXCEPTION_LOG
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:257:9-259:36
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:259:13-33
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:258:13-52
+meta-data#BaiduMobAd_SEND_STRATEGY
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:261:9-263:41
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:263:13-38
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:262:13-52
+meta-data#BaiduMobAd_ONLY_WIFI
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:267:9-269:36
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:269:13-33
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:268:13-48
+meta-data#BaiduMobAd_CELL_LOCATION
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:271:9-273:36
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:273:13-33
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:272:13-52
+meta-data#BaiduMobAd_GPS_LOCATION
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:275:9-277:36
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:277:13-33
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:276:13-51
+meta-data#BaiduMobAd_WIFI_LOCATION
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:279:9-281:36
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:281:13-33
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:280:13-52
+receiver#com.up72.mobby.utils.push.OfficalNewsUtil
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:283:9-287:20
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:283:19-75
+intent-filter#action:name:login
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:284:13-286:29
+action#login
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:285:17-48
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:285:25-45
+service#cn.jpush.android.service.PushService
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:290:9-300:19
+	android:enabled
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:292:13-35
+	android:exported
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:293:13-37
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:291:13-64
+intent-filter#action:name:cn.jpush.android.intent.PUSH_TIME+action:name:cn.jpush.android.intent.PushService+action:name:cn.jpush.android.intent.REGISTER+action:name:cn.jpush.android.intent.REPORT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:294:13-299:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:295:17-75
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:295:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:296:17-73
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:296:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:297:17-78
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:297:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:298:17-76
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:298:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:302:9-319:20
+	android:enabled
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:304:13-35
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:303:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:com.up72.mobby
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:305:13-308:29
+	android:priority
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:305:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:306:17-94
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:306:25-91
+category#com.up72.mobby
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:307:17-59
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:307:27-56
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:309:13-312:29
+action#android.intent.action.USER_PRESENT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:310:17-77
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:310:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:311:17-79
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:311:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:313:13-318:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:314:17-78
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:314:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:315:17-80
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:315:25-77
+data
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:317:17-50
+	android:scheme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:317:23-47
+activity#cn.jpush.android.ui.PushActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:321:9-331:20
+	android:configChanges
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:323:13-63
+	android:theme
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:324:13-72
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:322:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:android.intent.category.DEFAULT+category:name:com.up72.mobby
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:325:13-330:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:326:17-75
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:326:25-72
+category#android.intent.category.DEFAULT
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:328:17-76
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:328:27-73
+service#cn.jpush.android.service.DownloadService
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:333:9-337:19
+	android:enabled
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:335:13-35
+	android:exported
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:336:13-37
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:334:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:339:9-75
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:339:19-72
+meta-data#JPUSH_CHANNEL
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:347:9-349:49
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:349:13-46
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:348:13-41
+meta-data#JPUSH_APPKEY
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:351:9-353:56
+	android:value
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:353:13-53
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:352:13-40
+receiver#com.up72.mobby.receiver.JpushReceiver
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:355:9-362:20
+	android:enabled
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:357:13-35
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:356:13-65
+intent-filter#action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+category:name:com.up72.mobby
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:358:13-361:29
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:359:17-83
+	android:name
+		ADDED from G:\StudioWorkspase\mobby2.5\app\src\main\AndroidManifest.xml:359:25-80

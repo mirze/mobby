@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f8f8f8"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/blue_title_bg"
+        android:gravity="center"
+        android:text="微听"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/title_textSize" />
+
+    <RelativeLayout
+        android:id="@+id/view_pager_title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/view_pager_title_top_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_welisten_view_pager_titile"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/welisten_indicator_height"
+            android:paddingTop="3dp" >
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view_pager_tv_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/welisten_indicator_height"
+            android:layout_alignBottom="@id/view_pager_title_top_layout"
+            android:background="@drawable/ic_welisten_indicator" />
+
+        <View
+            android:id="@+id/view_pager_tv_spit_line"
+            android:layout_width="fill_parent"
+            android:layout_height="3px"
+            android:layout_alignBottom="@id/view_pager_title_top_layout" />
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/common_view_pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

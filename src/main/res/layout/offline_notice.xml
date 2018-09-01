@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="260dp"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_album_delete"
+        android:layout_width="fill_parent"
+        android:layout_height="43dp"
+        android:background="@drawable/dilog_up"
+        android:gravity="center"
+        android:text="下线通知"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="140dp"
+        android:background="@drawable/dilog_down"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_offline_text"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="10dp"
+            android:text="你的帐号于11:03在另一台手机登录。如非本人登录，请注意帐号安全。"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bt_offiline_login"
+                android:layout_width="80dp"
+                android:layout_height="38dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/cancle_slector"
+                android:text="重新登录"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/bt_offiline_back"
+                android:layout_width="80dp"
+                android:layout_height="38dp"
+                android:background="@drawable/dialog_confirm_bg_selector"
+                android:text="返回"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
